@@ -1,0 +1,1 @@
+printf(somos todos anjos caidos; ou não)
